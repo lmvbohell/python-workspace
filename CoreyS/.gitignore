@@ -1,0 +1,7 @@
+venv
+.vscode
+*.txt
+*.jpg
+*.log
+*.csv
+Planets - *
