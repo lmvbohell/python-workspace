@@ -28,3 +28,13 @@ $ git remote -v
 > origin  https://github.com/USERNAME/REPOSITORY.git (push)
 The next time you git fetch, git pull, or git push to the remote repository, you'll be asked for your GitHub username and password.
 
+
+
+För att kunna köra Git kommandon i VScode:
+https://code.visualstudio.com/docs/editor/integrated-terminal	-Rubrik Windows
+
+
+
+Unitest:
+Command Palette > Discorver tests > Enabled and config. test framwork > unitest eller pytest > .root = current directory > 
+Select pattern = test_*.py
